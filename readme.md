@@ -17,7 +17,7 @@ A Spinach and Sausage dish served over Rice with some Soy Sauce
 
 1. Brown the meat
 1. Add the onions
-1. Add the GARLIC (this step is a party)
+1. Add the GARLIC (this step is a party)!
 
 #### Git and Cooking
 This cooking recipe has now changed into a git instruction course. All ingredients will still be used do not question it.
