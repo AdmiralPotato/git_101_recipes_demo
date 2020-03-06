@@ -17,4 +17,4 @@ A Spinach and Sausage dish served over Rice with some Soy Sauce
 
 1. Brown the meat
 1. Add the onions
-1. Add the GARLIC (this step is a party)
+1. Add the GARLIC (this step is a party)!
