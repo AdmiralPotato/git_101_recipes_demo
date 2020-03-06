@@ -21,3 +21,19 @@ A Spinach and Sausage dish served over Rice with some Soy Sauce
 
 #### Git and Cooking
 This cooking recipe has now changed into a git instruction course. All ingredients will still be used do not question it.
+
+## Potato Salad
+
+Boiled potatoes and eggs, mashed, mixed with  mayonaiise
+
+### Ingredients
+1. Boiled potatoes
+1. Boiled eggs
+1. Miracle whip
+1. pickle
+1. one pea
+
+### Instructions
+1. ask the person who knows
+1. follow their advice
+1. thank the cook
